@@ -52,14 +52,6 @@ const Navbar = () => {
             {toggleMenu && (
               <div>
                 <MenuContent />
-                <div className="gpt3__navbar-menu_container-links-sign">
-                  <div>
-                    <p>Sign In</p>
-                  </div>
-                  <div>
-                    <button type="button">Sign Up</button>
-                  </div>
-                </div>
               </div>
             )}
           </span>

@@ -1,4 +1,5 @@
 import React from "react";
+import "./navbar.css";
 
 const MenuContent = () => {
   return (
@@ -22,6 +23,14 @@ const MenuContent = () => {
             <p>
               <a href="#blog">Blog</a>
             </p>
+            <div className="gpt3__navbar-menu_container-links-sign">
+              <div>
+                <p>Sign In</p>
+              </div>
+              <div>
+                <button type="button">Sign Up</button>
+              </div>
+            </div>
           </div>
         </div>
       </div>

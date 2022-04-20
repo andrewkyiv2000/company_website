@@ -1,6 +1,6 @@
 import React from "react";
 import "./header.css";
-import Ellipse31 from "../../assets/Ellipse31.png";
+import people from "../../assets/people.png";
 import ai1 from "../../assets/ai1.png";
 
 const Header = () => {
@@ -24,7 +24,7 @@ const Header = () => {
           <button type="button">Get Started</button>
         </div>
         <div className="gpt3__header-content__people">
-          <img src={Ellipse31} alt="people" />
+          <img src={people} alt="people" />
           <p>1600 people requested access</p>
         </div>
       </div>

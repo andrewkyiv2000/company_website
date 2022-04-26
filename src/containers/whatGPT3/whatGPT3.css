@@ -3,7 +3,8 @@
   flex-direction: column;
   padding: 4rem;
   background: var(--color-footer);
-  margin: 0 5rem; /* ширина рамки элемента 4*/
+  margin: 0 5rem;
+  /* ширина рамки элемента 4*/
 
   /* ff 3.6+ */
   background: -moz-linear-gradient(

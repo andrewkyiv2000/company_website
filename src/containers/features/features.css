@@ -71,7 +71,10 @@
   .gpt3__features-heading h1 {
     font-family: var(--font-family);
     font-weight: 800;
-    font-size: 25px;
-    line-height: 30px;
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .gpt3__features-heading p {
+    font-size: 20px;
   }
 }

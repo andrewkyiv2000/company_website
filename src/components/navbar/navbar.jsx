@@ -23,10 +23,10 @@ const Navbar = () => {
             <a href="#about">About</a>
           </p>
           <p>
-            <a href="#possibility">What we offer?</a>
+            <a href="#whatweoffer">What we offer?</a>
           </p>
           <p>
-            <a href="#features">Portfolio</a>
+            <a href="#ouradvantage">Our Advantage</a>
           </p>
           <p>
             <a href="#blog">Blog</a>

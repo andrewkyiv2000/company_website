@@ -4,7 +4,7 @@ import Feature from "../../components/feature/feature.jsx";
 
 const WhatGPT3 = () => {
   return (
-    <div className="gpt3__whatgpt3 section__margin">
+    <div className="gpt3__whatgpt3 section__margin" id="about">
       <div className="gpt3__whatgpt3-feature">
         <Feature
           title="Hypotheses Validation Plan"

@@ -29,7 +29,7 @@ const Features = () => {
   return (
     <div className="gpt3__features section__padding">
       <div className="gpt3__features-heading">
-        <h1 className="gradient__text">
+        <h1 className="gradient__text" id="whatweoffer">
           Reach your future clients and evaluate marketing landscape. Now.
         </h1>
         <p>Send me inquiry to get a plan for your specific case</p>

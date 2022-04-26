@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 import "./App.css";
 
 import {
   Footer,
   Blog,
-  Possibility,
+  Ouradvantage,
   Features,
   WhatGPT3,
   Header,
@@ -21,12 +21,12 @@ const App = () => {
       <Brand />
       <WhatGPT3 />
       <Features />
-      <Possibility />
+      <Ouradvantage />
       <CTA />
       <Blog />
       <Footer />
     </div>
   );
-}
+};
 
 export default App;

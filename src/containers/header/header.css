@@ -65,7 +65,7 @@
 }
 .gpt3__header-content__input button {
   width: 174px;
-  height: 73px;
+  height: 58px;
   left: 768px;
   top: 624px;
   background: var(--color-button_dark);
@@ -81,6 +81,10 @@
   cursor: pointer;
   border-top-right-radius: 9px;
   border-bottom-right-radius: 9px;
+}
+
+.gpt3__header-content__input button:hover {
+  background-color: var(--color-button);
 }
 .gpt3__header-content__input input::placeholder {
   color: rgb(197, 197, 197);

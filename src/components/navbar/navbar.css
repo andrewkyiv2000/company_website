@@ -64,6 +64,10 @@ gpt3__navbar-sign p {
   cursor: pointer;
 }
 
+.gpt3__navbar-sign button:hover {
+  background-color: var(--color-button);
+}
+
 .gpt3__navbar-menu {
   margin-left: 1rem;
   display: none;

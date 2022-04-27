@@ -14,14 +14,14 @@ const MenuContent = () => {
               <a href="#about">About</a>
             </p>
             <p>
-              <a href="#possibility">What we offer?</a>
+              <a href="#whatweoffer">What we offer?</a>
             </p>
             <p>
-              <a href="#features">Portfolio</a>
+              <a href="#ouradvantage">Our Advantage</a>
             </p>
 
             <p>
-              <a href="#blog">Blog</a>
+              <a href="#contact">Contact</a>
             </p>
             <div className="gpt3__navbar-menu_container-links-sign">
               <div>

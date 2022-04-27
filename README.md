@@ -1,6 +1,6 @@
-Landing page project based on Figma template by [www.arshakir.com](www.arshakir.com)
+### Landing page project based on Figma template by [www.arshakir.com](www.arshakir.com)
 
-### `git clone https://github.com/andrewkyiv2000/company_website.git`
+#### `git clone https://github.com/andrewkyiv2000/company_website.git`
 
 Download project to your IDE
 
